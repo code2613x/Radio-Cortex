@@ -1,0 +1,15 @@
+numpy
+torch
+gymnasium
+kafka-python
+stable-baselines3
+matplotlib
+pandas
+scipy
+rich
+seaborn
+wandb
+streamlit
+tqdm
+gradio
+plotly
