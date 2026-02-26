@@ -591,10 +591,6 @@ https://youtu.be/ZvtCA4xGShE
 ![ModelBench](docs/image3.png)
 
 
-## 👥 Team Members
-
-Shreyansh Kumar, Sarthak Sharma, Nikhil Agnihotri, Sarvesh Joshi, Tanush Dhiman, Siddharth Bohra, Yatharth Kabra, Adhikshit
-
 ## ⚠️ Limitations & Future Scope
 
 **Current Limitations:**
@@ -607,3 +603,4 @@ Shreyansh Kumar, Sarthak Sharma, Nikhil Agnihotri, Sarvesh Joshi, Tanush Dhiman,
 *   **Hardware-in-the-Loop (HIL):** Testing the trained BDH policy on physical SDRs (Software Defined Radios) using srsRAN or OpenAirInterface.
 *   **Energy-Saving State Support:** Integrating deep sleep and MIMO antenna blanking into the action space for true Green-RAN optimization.
 *   **Zero-Shot Generalization:** Expanding the curriculum to train across varying spectrum bands simultaneously.
+
