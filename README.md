@@ -15,7 +15,7 @@ Radio-Cortex includes a fully automated, bulletproof setup script that handles a
 For a complete setup on Linux (Ubuntu/Debian):
 ```bash
 # 1. Clone the Repository
-git clone https://github.com/ishreyanshkumar/Radio-Cortex.git
+git clone https://github.com/code2613x/Radio-Cortex.git
 cd Radio-Cortex
  
 # 2. Run the End-to-End Setup Script
@@ -603,4 +603,5 @@ https://youtu.be/ZvtCA4xGShE
 *   **Hardware-in-the-Loop (HIL):** Testing the trained BDH policy on physical SDRs (Software Defined Radios) using srsRAN or OpenAirInterface.
 *   **Energy-Saving State Support:** Integrating deep sleep and MIMO antenna blanking into the action space for true Green-RAN optimization.
 *   **Zero-Shot Generalization:** Expanding the curriculum to train across varying spectrum bands simultaneously.
+
 
